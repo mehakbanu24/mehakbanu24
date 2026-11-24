@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.png" alt="Mehak Banu — Software Engineer and Automation Engineer" width="100%" />
+<img src="banner.png" alt="Mehak Banu — Software Engineer and Automation Engineer" width="100%" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehak-banu/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mehakbanu24)
